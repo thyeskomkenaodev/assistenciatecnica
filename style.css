@@ -564,6 +564,17 @@ footer {
     margin-bottom: 10px;
 }
 
+/* Estrelas */
+.stars {
+    color: #FFD700;
+    margin-right: 8px;
+    font-size: 1.1em;
+    vertical-align: middle;
+}
+.stars .fa-star {
+    margin-right: 2px;
+}
+
 /* Responsivo */
 @media (max-width: 992px) {
     .about .container {
